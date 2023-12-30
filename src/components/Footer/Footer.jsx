@@ -8,7 +8,7 @@ const Footer = () => {
                 <Typography variant="body2" color="inherit" align="center" sx={{ mt: 2, mb: 2 }}>
                     {'Copyright © '}
                     <Link color="inherit" href="#">
-                        Olena Iankovska
+                        Artem Trikozyk
                     </Link>{' '}
                     {new Date().getFullYear()}
                     {'.'}
